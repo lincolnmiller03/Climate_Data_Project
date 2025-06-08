@@ -2,6 +2,8 @@
 ## Lincoln Miller
 ## 6.8.2025
 
+[My GitHub Repo](https://github.com/lincolnmiller03/Climate_Data_Project)
+
 As the effect of climate change gradually manifest around us, it can be hard to discern the gradual changes in the weather around us fitting into a large-scale shift. The American midwest has been labelled a 'climate haven' by some, a region where the effects of climate change will not be as disruptive as, say, on the eastern seaborad. My research question explores the short-term shift in precipitation in four Midwestern cities (Chicago, Madison, Minneapolis, and St. Louis) over the past decade: Are any of these cities experiencing less precipitation than they were 10 years? Is the difference significant?
 
 !["Midwest Precipitation Trends"](images/precip_trends.png)
